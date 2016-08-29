@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxGetStarted</string>
+    <string name="item_name">Приготовить ужин</string>
+    <string name="item_importance">5</string>
+    <string name="add_item">Add new task</string>
+    <string name="importance">Importance (from 1 to 10)</string>
+    <string name="cancel">cancel</string>
+    <string name="add">add</string>
+    <string name="name">Name</string>
+</resources>
